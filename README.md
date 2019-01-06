@@ -1,2 +1,3 @@
 # hello-world
-jusy another repository
+just another repository
+I like python and ML
